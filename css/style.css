@@ -467,7 +467,7 @@ a:focus {
   background: #fff;
   background: url("../images/bg/slider-bg-1.jpg") no-repeat;
   background-size: cover;
-  min-height: 950px;
+  /*min-height: 950px;*/
 }
 
 .banner .block {
@@ -500,43 +500,43 @@ a:focus {
   background: #e12454;
 }
 
-@media (max-width: 480px) {
-  .banner .block h1 {
-    font-size: 38px;
-    line-height: 50px;
-  }
-  .banner {
-    min-height: 450px;
-    background: #fff !important;
-  }
-}
+/*@media (max-width: 480px) {*/
+/*  .banner .block h1 {*/
+/*    font-size: 38px;*/
+/*    line-height: 50px;*/
+/*  }*/
+/*  .banner {*/
+/*    min-height: 450px;*/
+/*    background: #fff !important;*/
+/*  }*/
+/*}*/
 
-@media (max-width: 400px) {
-  .banner .block h1 {
-    font-size: 28px;
-    line-height: 40px;
-  }
-  .banner {
-    min-height: 450px;
-    background: #fff !important;
-  }
-}
+/*@media (max-width: 400px) {*/
+/*  .banner .block h1 {*/
+/*    font-size: 28px;*/
+/*    line-height: 40px;*/
+/*  }*/
+/*  .banner {*/
+/*    min-height: 450px;*/
+/*    background: #fff !important;*/
+/*  }*/
+/*}*/
 
-@media (max-width: 768px) {
-  .banner .block h1 {
-    font-size: 56px;
-    line-height: 70px;
-  }
-  .banner {
-    background: #fff !important;
-  }
-}
+/*@media (max-width: 768px) {*/
+/*  .banner .block h1 {*/
+/*    font-size: 56px;*/
+/*    line-height: 70px;*/
+/*  }*/
+/*  .banner {*/
+/*    background: #fff !important;*/
+/*  }*/
+/*}*/
 
-@media (max-width: 992px) {
-  .banner {
-    background: #fff !important;
-  }
-}
+/*@media (max-width: 992px) {*/
+/*  .banner {*/
+/*    background: #fff !important;*/
+/*  }*/
+/*}*/
 
 .about-img img {
   border-radius: 5px;
