@@ -157,7 +157,7 @@
 	function initialize() {
 		var mapOptions = {
 			zoom: 13,
-			center: new google.maps.LatLng(50.97797382271958, -114.107718560791)
+			center: new google.maps.LatLng(33.5552804, 73.1360749)
 			// styles: style_array_here
 		};
 		map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
